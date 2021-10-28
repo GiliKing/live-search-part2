@@ -29,6 +29,11 @@ To use an API to import data to the database rather the verified users doing it
 
 Registered users can see what other undisclosed but registered users are searching in other words (search Trending);
 
+# check
+click the link below to see the project
+
+https://live-search-project.herokuapp.com/
+
 # ...........................................
 
 
