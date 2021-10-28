@@ -12,8 +12,11 @@ Also it can store search result and save it so that user can view what they have
 
 # Added Functionality
 login logout session
-cookie super global (to track we user login and logout)
+
+Cookie super global (to track we user login and logout)
+
 Only Registered users can add information to the database
+
 Registered Users can view the own specific search.
 
 # Things To Do
@@ -23,6 +26,7 @@ You can input datas in the table by youself or you van use an API.
 
 # future plan
 To use an API to import data to the database rather the verified users doing it
+
 Registered users can see what other undisclosed but registered users are searching in other words (search Trending);
 
 # ...........................................
